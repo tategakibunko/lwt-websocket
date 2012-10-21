@@ -1,0 +1,14 @@
+Dependencies
+============
+
+1. ocaml(>=3.12)
+2. cryptokit
+3. bitstring
+4. extlib
+5. lwt
+
+Installing
+==========
+
+1. make
+2. sudo make install
